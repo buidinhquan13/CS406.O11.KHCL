@@ -23,7 +23,7 @@
 | ------ |:-------------:| ----------------------:|-------------------------:
 | 1      | 21522487      | Bùi Đình Quân         |21522487@gm.uit.edu.vn   |
 | 2      | 21522295      | Lê Trần Bảo Lợi          |21522295@gm.uit.edu.vn   |
-| 3      | 21520846      |  Ngô Đức Hoàng Hiệp         |21520846@gm.uit.edu.vn   |
+| 3      | 21520846      | Ngô Đức Hoàng Hiệp         |21520846@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
 # IMAGE RETRIEVAL
